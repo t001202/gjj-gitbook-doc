@@ -14,7 +14,8 @@
     2.主要依赖爬虫项目(data-center)
     3.基于springcloud，系统配置文件(config-repo)
 ###项目逻辑关联如下图：
-   
+ [详情点击](http://www.youyuwo.com)
+    
 
    
     
