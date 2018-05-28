@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gjj-gitbook-doc.iml" filepath="$PROJECT_DIR$/gjj-gitbook-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gjj-appapi-new-doc.iml" filepath="$PROJECT_DIR$/gjj-appapi-new-doc.iml" />
     </modules>
   </component>
 </project>
