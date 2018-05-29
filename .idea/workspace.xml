@@ -1,49 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e6d989b-c4f4-4751-a41b-fe6751aff32b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SUMMARY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-all.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-account.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-account/app-api-account.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-account/app-api-announcement.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-account-list.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-account-unblind.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-account-update.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-indexNew.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-old-account/appapi-queryPayRecordByAccountInfo.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-annualreport.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-annualreport/app-api-annualreport.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-community/app-api-articleList.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-crawlar.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-crawler/appapi-forceFlush.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-crawler/appapi-getLoginYzm.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-crawler/appapi-getYzm.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-crawler/appapi-gjjlogin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-crawler/appapi-logInPageUiConfig.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-crawler/appapi-preLogin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-crawler/appapi-sufLogin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-credit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-credit/app-api-choose.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-account-check/app-api-account-check.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-account-check/app-api-diandiloan-query.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-auth/app-api-auth-content.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-auth/app-api-auth-gjj.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-auth/app-api-auth-loan.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-basicinfo/app-api-query.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-collection/app-api-collection.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-credit-card/app-api-apply-record.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-credit-card/app-api-cardNo.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-credit-card/app-api-credit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-credit-card/app-api-verify.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-feedback/app-api-feedback.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-login/app-api-login.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-message/app-api-message.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-welfare/app-api-welfare.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit.md" />
+    <list default="true" id="0e6d989b-c4f4-4751-a41b-fe6751aff32b" name="Default" comment="新增文档接口说明">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-stock/app-api-stock.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-customer/app-api-user/app-api-user.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit/app-api-calculateallfee.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit/app-api-checkusermobileno.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit/app-api-deleteqqxborder.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit/app-api-getallqqxbcitys.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit/app-api-getorderdetail.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit/app-api-getorderlist.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit/app-api-getqqxbbasicserviceinfo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit/app-api-getqqxbservicefeeandduration.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit/app-api-qqxbnotify.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-deposit/app-api-submitorder.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyarea.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applycity.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applycount.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyevaluation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyloaninfo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyloansum.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyreason.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applysimple.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyupload.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyurl.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyvalidate.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-user.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-helploan/app-api-uservoice.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-insurance/app-api-firstblinding.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-insurance/app-api-receive.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-loan/app-api-detail.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-loan/app-api-list.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/app-api-list.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-advertisement.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-advertisementnew.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-detailloanconfig.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getallaroundservice.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getallservicesuiconfig.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getaroundservice.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getbanner.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getquickentry.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-gonggaoindex.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-homeentry.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-indexadvertisement.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-indexharvest.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-serviceadvertisement.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-serviceloan.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-shootadvertisement.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,12 +59,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="app-api-feedback.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-feedback/app-api-feedback.md">
+      <file leaf-file-name="app-api-getbanner.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getbanner.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="297">
-                <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <first_editor relative-caret-position="216">
+                <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -68,12 +72,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app-api-login.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-login/app-api-login.md">
+      <file leaf-file-name="app-api-getquickentry.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getquickentry.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="297">
-                <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <first_editor relative-caret-position="216">
+                <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -81,12 +85,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app-api-message.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-message/app-api-message.md">
+      <file leaf-file-name="app-api-getaroundservice.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getaroundservice.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="567">
-                <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <first_editor relative-caret-position="54">
+                <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app-api-getallaroundservice.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getallaroundservice.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app-api-serviceadvertisement.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-serviceadvertisement.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app-api-serviceloan.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-serviceloan.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app-api-shootadvertisement.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-shootadvertisement.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app-api-detailloanconfig.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-detailloanconfig.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="405">
+                <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -107,57 +176,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-home.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-start.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-account.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-customer.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-community.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-crawler.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-loan.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-insurance.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-credit.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-annualreport.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-helploan.md" />
-        <option value="$PROJECT_DIR$/gjj-new-appapi/app-api-tools.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
-        <option value="$PROJECT_DIR$/README.MD" />
-        <option value="$PROJECT_DIR$/gjj-app-api-account.md" />
-        <option value="$PROJECT_DIR$/gjj-all.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-crawlar.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-credit.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-account/app-api-oldacccountInfo.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-old-account/appapi-indexNew.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-account/app-api-account.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-old-account/appapi-queryPayRecordByAccountInfo.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-indexNew.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-account/app-api-announcement.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-account-list.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-account-update.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-account-unblind.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-annualreport/app-api-annualreport.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-community/app-api-articleList.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-crawler/appapi-logInPageUiConfig.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-crawler/appapi-getLoginYzm.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-crawler/appapi-gjjlogin.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-crawler/appapi-prelogin.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-crawler/appapi-preLogin.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-account-check/app-api-account-check.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-account-check/app-api-diandiloan-query.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-auth/app-api-account-check.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-auth/app-api-auth-gjj.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-auth/app-api-auth-loan.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-collection/app-api-collection.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-credit-card/app-api-cardNo.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-credit-card/app-api-verify.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-credit-card/app-api-credit.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-credit-card/app-api-apply-record.md" />
-        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-basicinfo/app-api-credit.md" />
         <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-basicinfo/app-api-query.md" />
         <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-feedback/app-api-feedback.md" />
         <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-welfare/app-api-welfare.md" />
         <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-login/app-api-login.md" />
         <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-message/app-api-message.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-stock/app-api-stock.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-customer/app-api-user/app-api-user.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-deposit/app-api-checkusermobileno.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-deposit/app-api-getallqqxbcitys.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-deposit/app-api-getqqxbbasicserviceinfo.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-deposit/app-api-getqqxbservicefeeandduration.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-deposit/app-api-calculateallfee.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-deposit/app-api-submitorder.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-deposit/app-api-getorderlist.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-deposit/app-api-getorderdetail.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-deposit/app-api-deleteqqxborder.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-deposit/app-api-qqxbnotify.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-calculateallfee.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applycount.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyloansum.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyevaluation.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyurl.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-uservoice.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-user.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyloaninfo.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyupload.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyvalidate.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyreason.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applycity.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyarea.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-helploan/app-api-applysimple.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-insurance/app-api-applyarea.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-insurance/app-api-firstblinding.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-loan/app-api-loan.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-loan/app-api-detail.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-list.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getallservicesuiconfig.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-indexadvertisement.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-index.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-indexharvest.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-advertisementnew.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-advertisement.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getbanner.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getquickentry.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getaroundservice.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getallaroundservice.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-serviceadvertisement.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-serviceloan.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-shootadvertisement.md" />
+        <option value="$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-detailloanconfig.md" />
       </list>
     </option>
   </component>
@@ -169,7 +238,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="581" />
+    <option name="x" value="654" />
+    <option name="y" value="10" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -191,9 +261,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,47 +271,34 @@
             <path>
               <item name="gjj-gitbook-doc" type="b2602c69:ProjectViewProjectNode" />
               <item name="gjj-gitbook-doc" type="462c0819:PsiDirectoryNode" />
-              <item name="gjj-all" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gjj-gitbook-doc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gjj-gitbook-doc" type="462c0819:PsiDirectoryNode" />
-              <item name="gjj-app-api-account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gjj-gitbook-doc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gjj-gitbook-doc" type="462c0819:PsiDirectoryNode" />
-              <item name="gjj-app-api-customer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gjj-gitbook-doc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gjj-gitbook-doc" type="462c0819:PsiDirectoryNode" />
-              <item name="gjj-app-api-customer" type="462c0819:PsiDirectoryNode" />
-              <item name="app-api-login" type="462c0819:PsiDirectoryNode" />
+              <item name="gjj-app-api-recommend" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="G:/repo/credit-product-gitbook-doc" />
+    <property name="last_opened_file_path" value="G:/repo/gjj/app-api" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-recommend\gjj-appapi-recommend" />
+      <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-recommend" />
+      <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-loan" />
+      <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-insurance" />
+      <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-helploan" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-account\gjj-app-api-indexNew" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-customer\app-api-message" />
-      <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-customer\app-api-login" />
-      <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-customer\app-api-welfare" />
-      <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-customer\app-api-feedback" />
-      <recent name="F:\IdeaProjects\gjj-gitbook-doc\gjj-app-api-customer\app-api-basicinfo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -371,7 +425,9 @@
       <updated>1527215465684</updated>
       <workItem from="1527215467096" duration="8991000" />
       <workItem from="1527236724716" duration="1853000" />
-      <workItem from="1527470950043" duration="14975000" />
+      <workItem from="1527470950043" duration="15042000" />
+      <workItem from="1527497146451" duration="1549000" />
+      <workItem from="1527573966170" duration="5780000" />
     </task>
     <task id="LOCAL-00001" summary="新添页面">
       <created>1527479477615</created>
@@ -401,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527479796454</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="新增文档接口说明">
+      <created>1527496834972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527496834973</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25819000" />
+    <option name="totallyTimeSpent" value="33215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -424,7 +487,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24034335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24678111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -482,505 +545,19 @@
     <MESSAGE value="新添页面" />
     <MESSAGE value="config file" />
     <MESSAGE value="delete the file what have updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete the file what have updated" />
+    <MESSAGE value="新增文档接口说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增文档接口说明" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gjj-new-appapi/app-api-credit.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-new-appapi/app-api-deposit.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-new-appapi/app-api-annualreport.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-new-appapi/app-api-helploan.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-new-appapi/app-api-tools.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="27">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-appapi-new-doc.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-annualreport.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-crawlar.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-credit.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-account/app-api-oldacccountInfo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-account/app-api-announcement.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-indexNew.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-old-account/appapi-queryPayRecordByAccountInfo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-account-list.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="9" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-account-update.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-account/gjj-app-api-indexNew/appapi-account-unblind.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="205">
-            <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-annualreport/app-api-annualreport.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-community/app-api-articleList.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="11" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-crawler/appapi-gjjlogin.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-crawler/appapi-getLoginYzm.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="351">
-            <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-credit/app-api-choose.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-crawler/appapi-forceFlush.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-crawler/appapi-logInPageUiConfig.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="12" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-crawler/appapi-getYzm.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-crawler/appapi-sufLogin.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-all.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-account.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-all/gjj-all.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-crawler/appapi-preLogin.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-account-check/app-api-account-check.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="14" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-auth/app-api-auth-gjj.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="351">
-            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-auth/app-api-auth-loan.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="351">
-            <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-account-check/app-api-diandiloan-query.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="351">
-            <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-auth/app-api-auth-content.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="12" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-account/app-api-account.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="14" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-collection/app-api-collection.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="259">
-            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-credit-card/app-api-verify.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="18" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-credit-card/app-api-credit.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="459">
-            <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-basicinfo/app-api-query.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-welfare/app-api-welfare.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="405">
             <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -991,7 +568,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="567">
             <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1002,13 +578,34 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
             <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-feedback/app-api-feedback.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="297">
+            <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-login/app-api-login.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="540">
+            <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-message/app-api-message.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="297">
@@ -1019,22 +616,495 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-login/app-api-login.md">
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-stock/app-api-stock.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <first_editor relative-caret-position="459">
+            <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-message/app-api-message.md">
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-customer/app-api-user/app-api-user.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="567">
-            <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit/app-api-checkusermobileno.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit/app-api-getallqqxbcitys.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit/app-api-getqqxbbasicserviceinfo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="405">
+            <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit/app-api-getqqxbservicefeeandduration.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="378">
+            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit/app-api-calculateallfee.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit/app-api-submitorder.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="378">
+            <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit/app-api-getorderlist.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="378">
+            <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit/app-api-getorderdetail.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit/app-api-deleteqqxborder.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-deposit/app-api-qqxbnotify.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applycount.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyloansum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyevaluation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyurl.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-uservoice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyupload.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-user.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyloaninfo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyvalidate.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyreason.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="378">
+            <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applycity.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applyarea.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-helploan/app-api-applysimple.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="405">
+            <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-insurance/app-api-receive.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-insurance/app-api-firstblinding.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="378">
+            <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-loan/app-api-list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-loan/app-api-detail.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/app-api-list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-gonggaoindex.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-homeentry.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="378">
+            <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getallservicesuiconfig.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-indexharvest.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-indexadvertisement.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-advertisementnew.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-advertisement.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="405">
+            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getbanner.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getquickentry.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getaroundservice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-getallaroundservice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-serviceadvertisement.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-serviceloan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-shootadvertisement.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjj-app-api-recommend/gjj-appapi-recommend/app-api-detailloanconfig.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="405">
+            <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
